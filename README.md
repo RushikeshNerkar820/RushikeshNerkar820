@@ -1,6 +1,8 @@
 # 💫 About Me:
-### Taking a long 6 months break. (Starting Sept 2025)
-### Hopefully i don't forget everything.
+💻 Passionate about hacking, security research, and breaking things just to understand how they work.  
+⚡ Always learning, experimenting, and exploring the darker corners of technology — ethically, of course.  
+🧠 Curiosity-driven, code-fueled, and constantly leveling up my skills.
+
 
 
 ## 🌐 Socials:
