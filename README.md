@@ -63,24 +63,7 @@
 
 ---
 
-##  Machines Rooted (Highlights)
 
-<details>
-<summary><b>Click to expand 📂</b></summary>
-
-| Machine | Path |
-|---------|------|
-| **Kobold** | MCPJam RCE → Docker privesc → SUID bash |
-| **VariaType** | fontTools path traversal → fontforge injection → setuptools root |
-| **CCTV** | ZoneMinder SQLi → Motion `on_event_start` command injection |
-| **Interpreter** | Mirth Connect RCE → eval-based Python injection as root |
-| **Pirate** | gMSA → NTLM relay (RemotePotato0) → LDAP shell → constrained delegation → SPN jacking |
-| **Baby2** | Logon script poisoning → GPO abuse (pyGPOAbuse) |
-| **Reflection** | MSSQL xp_dirtree NTLM relay → SMB shell |
-| **Klendathu** | MSSQL → GodPotato SYSTEM → SharpDPAPI cred extraction |
-| **Tea** | WSUS exploitation (SharpWSUS) → domain user creation |
-
-</details>
 
 ---
 
