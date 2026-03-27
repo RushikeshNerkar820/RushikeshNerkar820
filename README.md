@@ -23,12 +23,12 @@
 
 ---
 
-## 🔴 What I'm Up To
+##  What I'm Up To
 
-- 🔓 Actively rooting machines on **HackTheBox** & **VulnLab**
-- 📖 Grinding **PortSwigger Web Security Academy** (BSCP prep)
-- 🧠 Deep-diving into **Active Directory** attack chains — Kerberos, LDAP, NTLM relay, delegation abuse
-- 📝 Documenting everything in **Obsidian** → [`docs.0xrushi.xyz`](https://docs.0xrushi.xyz)
+-  Actively rooting machines on **HackTheBox** & **VulnLab**
+-  Grinding **PortSwigger Web Security Academy** (BSCP prep)
+-  Deep-diving into **Active Directory** attack chains — Kerberos, LDAP, NTLM relay, delegation abuse
+-  Documenting everything in **Obsidian** → [`docs.0xrushi.xyz`](https://0xrushi.xyz)
 
 ---
 
