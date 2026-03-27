@@ -18,7 +18,6 @@
   Focus    : Offensive Security, CTF, Active Directory attacks
   Platform : HackTheBox | VulnLab | PortSwigger
   Cert     : BSCP (in progress)
-  OS       : EndeavourOS / Arch Linux + i3wm
   Motto    : "Break it to understand it."
 ```
 
@@ -56,15 +55,15 @@
 
 | Area | Tools / Techniques |
 |------|-------------------|
-| 🌐 **Web Security** | CSRF, XSS, SSRF, SQLi, Path Traversal, RCE chains |
-| 🏰 **Active Directory** | Kerberoasting, AS-REP, NTLM Relay, Constrained Delegation, GPO Abuse |
-| 🔑 **Credential Attacks** | Pass-the-Hash, DPAPI, gMSA abuse, SharpDPAPI |
-| 🐍 **Post-Exploitation** | Sliver C2, impacket, BloodHound, NetExec, Responder |
-| 🐳 **Privesc** | Docker group abuse, SUID, token impersonation, GodPotato |
+| **Web Security** | CSRF, XSS, SSRF, SQLi, Path Traversal, RCE chains |
+|  **Active Directory** | Kerberoasting, AS-REP, NTLM Relay, Constrained Delegation, GPO Abuse |
+|  **Credential Attacks** | Pass-the-Hash, DPAPI, gMSA abuse, SharpDPAPI |
+|  **Post-Exploitation** | Sliver C2, impacket, BloodHound, NetExec, Responder |
+| **Privesc** | Docker group abuse, SUID, token impersonation, GodPotato |
 
 ---
 
-## 🚩 Machines Rooted (Highlights)
+##  Machines Rooted (Highlights)
 
 <details>
 <summary><b>Click to expand 📂</b></summary>
