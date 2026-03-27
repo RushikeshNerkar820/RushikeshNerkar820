@@ -51,7 +51,7 @@
 
 ---
 
-## 🏴 Specializations
+##  Specializations
 
 | Area | Tools / Techniques |
 |------|-------------------|
