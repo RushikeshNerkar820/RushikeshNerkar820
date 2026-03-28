@@ -2,7 +2,7 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=0xRushi&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20CTF%20Player%20%7C%20Arch%20Enjoyer&descSize=18&descAlignY=58&descColor=7f5af0)](https://github.com/RushikeshNerkar820)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Breaking+things+to+understand+them.;HTB+%7C+VulnLab+%7C+CTF+Player;Active+Directory+%7C+Web+%7C+Red+Team;Curiosity-driven%2C+code-fueled.;arch+btw+%F0%9F%90%A7)](https://github.com/RushikeshNerkar820)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Breaking+things+to+understand+them.;HTB+%7C+VulnLab+%7C+CTF+Player;Active+Directory+%7C+Web+%7C+Red+Team;AWS+IAM+%7C+Cloud+Security;Curiosity-driven%2C+code-fueled.;arch+btw+%F0%9F%90%A7)](https://github.com/RushikeshNerkar820)
 
 </div>
 
@@ -15,7 +15,7 @@
 └─$ cat whoami.txt
 
   Handle   : 0xRushi
-  Focus    : Offensive Security, CTF, Active Directory attacks
+  Focus    : Offensive Security, CTF, Active Directory attacks, Cloud Security
   Platform : HackTheBox | VulnLab | PortSwigger
   Cert     : BSCP (in progress)
   Motto    : "Break it to understand it."
@@ -28,6 +28,7 @@
 - Actively rooting machines on **HackTheBox** & **VulnLab**
 - Grinding **PortSwigger Web Security Academy** (BSCP prep)
 - Deep-diving into **Active Directory** attack chains — Kerberos, LDAP, NTLM relay, delegation abuse
+- Exploring **AWS IAM** privilege escalation, enumeration & cloud attack paths
 - Documenting everything in **Obsidian** → [`docs.0xrushi.xyz`](https://0xrushi.xyz)
 
 ---
@@ -46,6 +47,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
@@ -60,6 +62,7 @@
 | **Credential Attacks** | Pass-the-Hash, DPAPI, gMSA abuse, SharpDPAPI |
 | **Post-Exploitation** | Sliver C2, impacket, BloodHound, NetExec, Responder |
 | **Privesc** | Docker group abuse, SUID, token impersonation, GodPotato |
+| **Cloud Security** | AWS IAM enum, `iam:PassRole`, access key escalation, boto3 tooling |
 
 ---
 
@@ -67,10 +70,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RushikeshNerkar820&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshNerkar820&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RushikeshNerkar820&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)](https://github.com/RushikeshNerkar820)
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=RushikeshNerkar820&theme=tokyonight&hide_border=true" width="495"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshNerkar820&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/RushikeshNerkar820)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RushikeshNerkar820&theme=tokyonight&hide_border=true)](https://github.com/RushikeshNerkar820)
 
 </div>
 
