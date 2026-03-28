@@ -70,9 +70,9 @@
 
 <div align="center">
 
-![stats](https://github-stats.as93.net/api?username=RushikeshNerkar820&show_icons=true&theme=tokyonight&hide_border=true)
+![RushikeshNerkar820's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RushikeshNerkar820&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![langs](https://github-stats.as93.net/api/top-langs?username=RushikeshNerkar820&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshNerkar820&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RushikeshNerkar820&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
