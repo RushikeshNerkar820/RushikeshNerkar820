@@ -66,15 +66,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![RushikeshNerkar820's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RushikeshNerkar820&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshNerkar820&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RushikeshNerkar820&theme=tokyo-night&hide_border=true&area=true&color=7f5af0&line=7f5af0&point=2cb67d&area_color=7f5af0)](https://github.com/RushikeshNerkar820)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RushikeshNerkar820&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/RushikeshNerkar820/RushikeshNerkar820/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
