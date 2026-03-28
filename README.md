@@ -23,16 +23,16 @@
 
 ---
 
-##  What I'm Up To
+## What I'm Up To
 
--  Actively rooting machines on **HackTheBox** & **VulnLab**
--  Grinding **PortSwigger Web Security Academy** (BSCP prep)
--  Deep-diving into **Active Directory** attack chains — Kerberos, LDAP, NTLM relay, delegation abuse
--  Documenting everything in **Obsidian** → [`docs.0xrushi.xyz`](https://0xrushi.xyz)
+- Actively rooting machines on **HackTheBox** & **VulnLab**
+- Grinding **PortSwigger Web Security Academy** (BSCP prep)
+- Deep-diving into **Active Directory** attack chains — Kerberos, LDAP, NTLM relay, delegation abuse
+- Documenting everything in **Obsidian** → [`docs.0xrushi.xyz`](https://0xrushi.xyz)
 
 ---
 
-##  Attack Toolkit
+## Attack Toolkit
 
 <div align="center">
 
@@ -51,36 +51,32 @@
 
 ---
 
-##  Specializations
+## Specializations
 
 | Area | Tools / Techniques |
 |------|-------------------|
 | **Web Security** | CSRF, XSS, SSRF, SQLi, Path Traversal, RCE chains |
-|  **Active Directory** | Kerberoasting, AS-REP, NTLM Relay, Constrained Delegation, GPO Abuse |
-|  **Credential Attacks** | Pass-the-Hash, DPAPI, gMSA abuse, SharpDPAPI |
-|  **Post-Exploitation** | Sliver C2, impacket, BloodHound, NetExec, Responder |
+| **Active Directory** | Kerberoasting, AS-REP, NTLM Relay, Constrained Delegation, GPO Abuse |
+| **Credential Attacks** | Pass-the-Hash, DPAPI, gMSA abuse, SharpDPAPI |
+| **Post-Exploitation** | Sliver C2, impacket, BloodHound, NetExec, Responder |
 | **Privesc** | Docker group abuse, SUID, token impersonation, GodPotato |
 
 ---
 
-
-
----
-
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RushikeshNerkar820&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d0d14&title_color=7f5af0&text_color=a0a0b8&icon_color=2cb67d" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshNerkar820&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=7f5af0&text_color=a0a0b8&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RushikeshNerkar820&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshNerkar820&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=RushikeshNerkar820&theme=tokyonight&hide_border=true&background=0d0d14&ring=7f5af0&fire=ff6b6b&currStreakLabel=a0a0b8&sideLabels=a0a0b8&currStreakNum=7f5af0&sideNums=2cb67d" width="495"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=RushikeshNerkar820&theme=tokyonight&hide_border=true" width="495"/>
 
 </div>
 
 ---
 
-##  Find Me
+## Find Me
 
 <div align="center">
 
@@ -101,4 +97,3 @@
 *"The quieter you become, the more you can hear."*
 
 </div>
-
