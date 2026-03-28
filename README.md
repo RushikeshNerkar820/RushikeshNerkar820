@@ -2,7 +2,7 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=0xRushi&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20CTF%20Player%20%7C%20Arch%20Enjoyer&descSize=18&descAlignY=58&descColor=7f5af0)](https://github.com/RushikeshNerkar820)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Breaking+things+to+understand+them.;HTB+%7C+VulnLab+%7C+CTF+Player;Active+Directory+%7C+Web+%7C+Red+Team;AWS+IAM+%7C+Cloud+Security;Curiosity-driven%2C+code-fueled.;arch+btw+%F0%9F%90%A7)](https://github.com/RushikeshNerkar820)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Breaking+things+to+understand+them.;HTB+%7C+VulnLab+%7C+CTF+Player;Active+Directory+%7C+Web+%7C+Red+Team;AWS+IAM+%7C+Cloud+Security;Curiosity-driven%2C+code-fueled.;arch+btw+%F0%9F%90%A7)](https://github.com/RushikeshNerkar820)
 
 </div>
 
@@ -70,11 +70,11 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RushikeshNerkar820&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)](https://github.com/RushikeshNerkar820)
+![stats](https://github-stats.as93.net/api?username=RushikeshNerkar820&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshNerkar820&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/RushikeshNerkar820)
+![langs](https://github-stats.as93.net/api/top-langs?username=RushikeshNerkar820&theme=tokyonight&hide_border=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RushikeshNerkar820&theme=tokyonight&hide_border=true)](https://github.com/RushikeshNerkar820)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RushikeshNerkar820&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
