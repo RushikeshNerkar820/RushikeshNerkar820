@@ -29,7 +29,7 @@
 - Grinding **PortSwigger Web Security Academy** (BSCP prep)
 - Deep-diving into **Active Directory** attack chains — Kerberos, LDAP, NTLM relay, delegation abuse
 - Exploring **AWS IAM** privilege escalation, enumeration & cloud attack paths
-- Documenting everything in **Obsidian** → [`docs.0xrushi.xyz`](https://0xrushi.xyz)
+- Documenting everything in **Obsidian** → [`0xrushi.xyz`](https://0xrushi.xyz)
 
 ---
 
