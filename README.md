@@ -62,7 +62,7 @@
 | **Credential Attacks** | Pass-the-Hash, DPAPI, gMSA abuse, SharpDPAPI |
 | **Post-Exploitation** | Sliver C2, impacket, BloodHound, NetExec, Responder |
 | **Privesc** | Docker group abuse, SUID, token impersonation, GodPotato |
-| **Cloud Security** | AWS IAM enum, `iam:PassRole`, access key escalation, boto3 tooling |
+| **Cloud Security** | AWS IAM enum,  access key escalation, boto3 tooling |
 
 ---
 
